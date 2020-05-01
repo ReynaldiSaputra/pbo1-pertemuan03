@@ -17,7 +17,7 @@ public class OperatorUnary {
 
         i+=3;
         System.out.println(i);
-        
+
         i*=3;
         System.out.println(i);
 
