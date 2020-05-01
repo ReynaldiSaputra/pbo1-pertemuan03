@@ -5,10 +5,10 @@ public class IfElse {
         double totalBelanja = 53000;
         double uangDiDompet = 25000;
 
-        if(uangDiDompet<totalBelanja){
+        if(uangDiDompet>totalBelanja){
             System.out.println("Uang kurang, Sadar diri astaga");
         }else{
-            System.out.println("Uang cukup, Ya Bagus");
+            System.out.println("Uang cukup, Ya Bagus Berelaan ");
         }
     }
 }
